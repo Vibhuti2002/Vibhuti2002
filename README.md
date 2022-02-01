@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vibhuti Patil</h1>
 <h3 align="center">A passionate android developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhuti2002&label=Profile%20views&color=0e75b6&style=flat" alt="vibhuti2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhuti2002&label=Profile%20views&color=0080ff&style=flat" alt="vibhuti2002" /> </p>
 
 - 🔭 I’m currently working on [Yogasna](https://github.com/Vibhuti2002/Yogasna)
 
@@ -24,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibhuti2002&show_icons=true&title_color=ff8080&locale=en&layout=compact" alt="vibhuti2002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhuti2002&show_icons=true&locale=en" alt="vibhuti2002" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibhuti2002&show_icons=true&theme=tokyonight&locale=en" alt="vibhuti2002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhuti2002&" alt="vibhuti2002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhuti2002&theme=highcontrast" alt="vibhuti2002" /></p>
