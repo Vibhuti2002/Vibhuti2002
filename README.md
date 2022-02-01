@@ -1,3 +1,4 @@
+![cover](https://user-images.githubusercontent.com/86654213/152018507-0f96c060-15a4-4959-8353-4a5f482915de.png)
 <h1 align="center">Hi 👋, I'm Vibhuti Patil</h1>
 <h3 align="center">A passionate android developer</h3>
 
