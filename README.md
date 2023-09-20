@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhuti2002&label=Profile%20views&color=0080ff&style=flat" alt="vibhuti2002" /> </p>
 
-- 🔭 I’m currently working on [Tshirt Selling App](https://github.com/Vibhuti2002/Tshirts-Selling-App)
-
 - 🌱 I’m currently learning **Android Development**
 
 - 💬 Ask me about **Java, Kotlin and Android**
